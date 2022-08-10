@@ -33,3 +33,5 @@ WebUI.delay(2)
 
 WebUI.closeBrowser()
 
+WebUI.delay(0)
+
